@@ -14,12 +14,12 @@ A real-time, zero-latency mental well-being monitoring dashboard that fuses visu
 
 ##  Key Features
 
-* ** Facial Emotion Recognition (FER):** Continuous, real-time bounding-box tracking using OpenCV and a CNN-based FER model.
-* ** Live Dictation & Audio Sentiment:** Bypasses traditional acoustic noise issues by utilizing dynamic Speech-to-Text (STT) transcription paired with deep learning NLP.
-* ** Manual Context Input:** Allows users to manually type their feelings for baseline emotional mapping.
-* ** Late-Fusion Algorithm:** Dynamically calculates confidence weights from all three modalities to output a single, highly accurate emotion (Happy, Sad, Neutral) and a `0-100` Happiness Score.
-* ** Zero-Latency Multithreading:** Hardware components (Webcam & Mic) run on decoupled background Python daemon threads, preventing UI freezing and ensuring smooth 1000ms polling.
-* ** Glassmorphism UI:** A sleek, modern dark-mode dashboard with dynamic color-shifting and animated progress bars.
+* **Facial Emotion Recognition (FER):** Continuous, real-time bounding-box tracking using OpenCV and a CNN-based FER model.
+* **Live Dictation & Audio Sentiment:** Bypasses traditional acoustic noise issues by utilizing dynamic Speech-to-Text (STT) transcription paired with deep learning NLP.
+* **Manual Context Input:** Allows users to manually type their feelings for baseline emotional mapping.
+* **Late-Fusion Algorithm:** Dynamically calculates confidence weights from all three modalities to output a single, highly accurate emotion (Happy, Sad, Neutral) and a `0-100` Happiness Score.
+* **Zero-Latency Multithreading:** Hardware components (Webcam & Mic) run on decoupled background Python daemon threads, preventing UI freezing and ensuring smooth 1000ms polling.
+* **Glassmorphism UI:** A sleek, modern dark-mode dashboard with dynamic color-shifting and animated progress bars.
 
 ---
 
