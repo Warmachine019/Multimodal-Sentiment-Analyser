@@ -4,7 +4,7 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-lightgrey?style=flat-square&logo=flask)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat-square&logo=opencv)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 A real-time, zero-latency mental well-being monitoring dashboard that fuses visual, audio, and textual data to accurately detect human emotions. Built to compensate for the environmental vulnerabilities of unimodal systems (like bad lighting or background noise) using a custom **Late-Fusion Probability Weighting** algorithm.
 
