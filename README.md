@@ -1,4 +1,4 @@
-# Multimodal Real-Time Emotion and Sentiment Detection System 
+# Multimodal Real-Time Emotion and Sentiment Detection System using machine learning
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-lightgrey?style=flat-square&logo=flask)
